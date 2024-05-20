@@ -1,0 +1,2 @@
+RewriteEngine On
+ErrorDocument 404 http://localhost/smanusa/404.html
